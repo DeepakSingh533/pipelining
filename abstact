@@ -10,5 +10,6 @@ there are multiple stages/segments such that output of one stage is connected to
 2. It increases the throughput of the system
 3.It makes the system reliable
 
-In our project we are going to implement pipelining in MIPS architecture so as to observe the way that data dependencies can be handled by the system.
+In our project we are going to discuss histoory of pipelining in computer architecture and hazards related to it and their solutions
+as well as discuusing some research papers too.
 Group code-7033
